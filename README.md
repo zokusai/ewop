@@ -12,10 +12,9 @@ Los procesadores incluidos actualmente son:
 - **stanza (Librería Stanford NLP)**:
     + Extracción y conteo de frases relevantes.
 
-## Requerimietos
+## Dependencias
 
-### Librerías de python
-
+- [pandas](https://pandas.pydata.org/docs/index.html)
 - [stanza](https://github.com/stanfordnlp/stanza/)
 
 ## Modo de uso

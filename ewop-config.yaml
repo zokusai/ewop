@@ -1,0 +1,9 @@
+---
+processors:
+  basic: True
+  stanza: True
+
+word:
+  # Exclusions for 'basic' processor
+  exclusions:
+    - '^(al|el|la|lo|le|he|ha|en|un|de|da|di|me|mi|se|para|por|con)$'
